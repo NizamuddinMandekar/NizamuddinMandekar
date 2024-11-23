@@ -1,6 +1,6 @@
 ![Banner](Banner.png)
 
-# **✨ Nizamuddin N. Mandekar **
+# *Nizamuddin N. Mandekar*
 
 ## 🌟 About Me  
 Hi there! 👋  
