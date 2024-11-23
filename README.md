@@ -5,6 +5,8 @@
 ## About Me:
 Hi! I’m Nizamuddin Mandekar, a Data Scientist and Machine Learning Engineer with a Master’s Degree in Artificial Intelligence. I work on using machine learning and deep learning to solve problems and create smart solutions.
 
+## 📙 Check out my [Resume](./Harsh_joshi_ML.pdf)
+
 ## Certifications:
 - **Deep Learning** ( By L&T Edutech ) (Pursuing)
 - **[Machine Learning ](https://iggnitewebcertification.lntedutech.com/?certificationID=dzp9JU_WYRUHFTM_267105454540822&name=Nizamuddin%20Naeem%20Mandekar%20&course=Machine%20Learning)** ( By L&T Edutech )
