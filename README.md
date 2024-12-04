@@ -64,6 +64,7 @@ I’m **Nizamuddin Mandekar**, a 💻 Data Scientist and 🤖 Machine Learning E
 
 ## 🧑‍🔬 Projects   
 - **🌐 Student Recruitment System (SRS): BSC.IT (Final Year Project)**
+
   The Student Recruitment System (SRS), built using ASP.NET, JavaScript, and MSSQL, simplifies campus hiring. It connects students, HR staff, and companies, streamlining job postings, applications, and online tests for a faster, more efficient recruitment process.
 - **🔍 [Sentiment Analysis](https://huggingface.co/spaces/NizamuddinMandekar/SentimentAnalysis):**  
   Built a web app to predict sentiment (positive/negative) with confidence scores using a pre-trained model.  
