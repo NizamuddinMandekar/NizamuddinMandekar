@@ -16,7 +16,7 @@ I’m **Nizamuddin**, a 💻 Data Scientist and 🤖 Machine Learning Engineer w
 ## 🎓 Education  
 | 🎓 **Degree**                       | 🏫 **Institution**                | 📅 **Duration**         | 📈 **Grade/Percentage** |
 |-------------------------------------|-----------------------------------|-------------------------|-------------------------|
-| 🧠 M.Sc. in Artificial Intelligence | B.K. Birla College (Autonomous)  | Aug 2023 - July 2025    | Pursuing               |
+| 🧠 M.Sc. in Artificial Intelligence | B.K. Birla College (Autonomous)  | Aug 2023 - July 2025    | 9.26                   |
 | 💻 B.Sc. in Information Technology  | B.K. Birla College (Autonomous)  | June 2020 - May 2023    | 9.27                   |
 | 📖 12th H.S.C Board                 | K.M. Agrawal College             | July 2018 - Feb 2020    | 62.46%                 |
 
@@ -95,7 +95,7 @@ I’m **Nizamuddin**, a 💻 Data Scientist and 🤖 Machine Learning Engineer w
 ## 📬 Contact Me  
 - 📍 **Location:** Kalyan, Maharashtra, India 🏡  
 - 📧 **Email:** [nizamuddin.mandekar@gmail.com](mailto:nizamuddin.mandekar@gmail.com) ✉️  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/nizamuddin-mandekar-226291219/) 🔗  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/nizamuddinmandekar/) 🔗  
 - 🧑‍💻 [**Kaggle**](https://www.kaggle.com/nizamuddinmandekar) 📊  
 - 🤗 [**Hugging Face**](https://huggingface.co/NizamuddinMandekar) 🤗  
 
