@@ -9,7 +9,7 @@ I’m **Nizamuddin**, a 💻 Data Scientist and 🤖 Machine Learning Engineer w
 ---
 
 ## 📂 **Explore My Work**  
-📄 [**Resume**](./my_RESUME.pdf)  
+📄 [**Resume**](./nizamuddin_mandekar.pdf)  
 
 ---
 
