@@ -4,7 +4,7 @@
 
 ## 🌟 About Me  
 Hi there! 👋  
-I’m **Nizamuddin**, a 💻 Data Scientist and 🤖 Machine Learning Engineer with a Master’s Degree in Artificial Intelligence. I love solving problems and creating smart solutions with **AI** and **ML**. 🌈  
+I’m **Nizamuddin**, a 🤖 AI Engineer with a Master’s Degree in Artificial Intelligence. I love solving problems and creating smart solutions with **AI** and **ML**. 🌈  
 
 ---
 
