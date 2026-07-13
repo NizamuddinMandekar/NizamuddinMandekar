@@ -74,15 +74,15 @@ AI Engineer who builds and deploys LLM-powered chatbots and machine learning app
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NizamuddinMandekar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0b1e&title_color=22d3ee&icon_color=f472b6&text_color=e6e9ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NizamuddinMandekar&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=NizamuddinMandekar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nizamuddinmandekar-3677s-projects.vercel.app/api?username=NizamuddinMandekar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0b1e&title_color=22d3ee&icon_color=f472b6&text_color=e6e9ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nizamuddinmandekar-3677s-projects.vercel.app/api?username=NizamuddinMandekar&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats-nizamuddinmandekar-3677s-projects.vercel.app/api?username=NizamuddinMandekar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NizamuddinMandekar&layout=compact&theme=radical&hide_border=true&bg_color=0d0b1e&title_color=22d3ee&text_color=e6e9ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NizamuddinMandekar&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NizamuddinMandekar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nizamuddinmandekar-3677s-projects.vercel.app/api/top-langs/?username=NizamuddinMandekar&layout=compact&theme=radical&hide_border=true&bg_color=0d0b1e&title_color=22d3ee&text_color=e6e9ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nizamuddinmandekar-3677s-projects.vercel.app/api/top-langs/?username=NizamuddinMandekar&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats-nizamuddinmandekar-3677s-projects.vercel.app/api/top-langs/?username=NizamuddinMandekar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </picture>
 
 <picture>
