@@ -22,6 +22,14 @@
       <feGaussianBlur stdDeviation="2.2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <linearGradient id="scanGradLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="scanGlowLight" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
   </defs>
 
   <g clip-path="url(#roundedLight)">
@@ -32,9 +40,15 @@
       <line x1="0" y1="0" x2="1380" y2="0"/><line x1="0" y1="36" x2="1380" y2="36"/><line x1="0" y1="72" x2="1380" y2="72"/><line x1="0" y1="108" x2="1380" y2="108"/><line x1="0" y1="144" x2="1380" y2="144"/><line x1="0" y1="180" x2="1380" y2="180"/><line x1="0" y1="216" x2="1380" y2="216"/><line x1="0" y1="252" x2="1380" y2="252"/><line x1="0" y1="288" x2="1380" y2="288"/><line x1="0" y1="324" x2="1380" y2="324"/><line x1="0" y1="360" x2="1380" y2="360"/><line x1="0" y1="396" x2="1380" y2="396"/><line x1="0" y1="432" x2="1380" y2="432"/><line x1="0" y1="468" x2="1380" y2="468"/><line x1="0" y1="504" x2="1380" y2="504"/><line x1="0" y1="540" x2="1380" y2="540"/><line x1="0" y1="576" x2="1380" y2="576"/><line x1="0" y1="612" x2="1380" y2="612"/><line x1="0" y1="648" x2="1380" y2="648"/><line x1="0" y1="684" x2="1380" y2="684"/>
     </g>
 
-    <rect x="0" y="0" width="1380" height="2.5" fill="#6366f1" opacity="0.3">
-      <animate attributeName="y" values="0;684;0" dur="6.5s" repeatCount="indefinite"/>
-    </rect>
+    <g>
+      <rect x="0" y="-40" width="1380" height="80" fill="url(#scanGradLight)" filter="url(#scanGlowLight)">
+        <animate attributeName="y" values="-40;644;-40" dur="6.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="0" y="0" width="1380" height="1.5" fill="#0284c7" opacity="0.75">
+        <animate attributeName="y" values="0;684;0" dur="6.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.75;0.4;0.75" dur="1.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
 
     <!-- title / command bar -->
     <rect x="0" y="0" width="1380" height="56" fill="#ffffff" fill-opacity="0.04"/>
